@@ -1,5 +1,4 @@
 // Assignment4CS335.cpp : This file contains the 'main' function. Program execution begins and ends there.
-// Justin Reisz CS 335 Dr. Rashad
 
 
 #include <iostream>
